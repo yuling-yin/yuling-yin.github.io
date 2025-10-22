@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2026 (expected)
+* Ph.D in HKUST-GZ, 20xx (expected)
 * M.S. in Geophysics, Southern University of Science and Technology, 2025
 * B.S. in Water Conservancy and Hydropower Engineering, North China University of Water Resources and Electric Power, 2022 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Research Assistant
+  * HKUST-GZ
+  * Duties includes: Delta_T project
+  * Supervisor: Prof. Jiangong Liu
 
 * Fall 2015: Research Assistant
   * GitHub University
