@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, GitHub University, 2026 (expected)
+* M.S. in Geophysics, Southern University of Science and Technology, 2025
+* B.S. in Water Conservancy and Hydropower Engineering, North China University of Water Resources and Electric Power, 2022 
 
 Work experience
 ======
@@ -34,7 +34,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Programming
+  * Python
+  * JavaScript (GEE)
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
