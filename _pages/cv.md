@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in HKUST-GZ, 20xx (expected)
+* Ph.D in HKUST-GZ, 2029 (expected)
 * M.S. in Geophysics, Southern University of Science and Technology, 2025
 * B.S. in Water Conservancy and Hydropower Engineering, North China University of Water Resources and Electric Power, 2022 
 
@@ -19,30 +19,20 @@ Work experience
 ======
 * Summer 2025: Research Assistant
   * HKUST-GZ
-  * Duties includes: Delta_T project
+  * Duties includes: Lead research projects (ΔT)
   * Supervisor: Prof. Jiangong Liu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Programming
   * Python
   * JavaScript (GEE)
+  * R (A little bit)
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Process high-resolution spatiotemporal  data
+  * FluxNET Data
+  * Global Datasets, e.g., P, T, ET, Runoff...
 
 Publications
 ======
